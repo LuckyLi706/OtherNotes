@@ -17,4 +17,4 @@
 
 ### 钢琴键盘对照表
 
-![](../images/piano_keyboard comparison.png)
+![](../images/piano_keyboard_comparison.png)
