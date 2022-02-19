@@ -53,3 +53,6 @@
 
 + [唧唧Down](http://client.jijidown.com/)
   B站视频下载的工具（只支持Windows）
+  
++ [Foxified](https://addoncrop.com/free-youtube-video-downloader/?uid=69101424)
+  Youtube视频下载的工具（浏览器插件）
