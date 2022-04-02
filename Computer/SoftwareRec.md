@@ -56,3 +56,14 @@
   
 + [Foxified](https://addoncrop.com/free-youtube-video-downloader/?uid=69101424)
   Youtube视频下载的工具（浏览器插件）
+  
+## VPN
+
++ [IKuuu](https://ikuuu.co/auth/login##)
+  大约90块钱一个月。速度还可以。可以下载客户端。（支持所有客户端）
+  
++ [shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android)
+  支持ssr协议的安卓客户端
+  
++ [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp)
+  支持ssr协议的Windows客户端
