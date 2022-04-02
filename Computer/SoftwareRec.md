@@ -67,3 +67,6 @@
   
 + [shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp)
   支持ssr协议的Windows客户端
+
++ [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap%E5%B8%B8%E7%94%A8%E7%89%88%E6%9C%AC%E5%8F%8A%E5%8E%BB%E5%B9%BF%E5%91%8A)
+  游戏加速器,支持ssr协议的Windows客户端
